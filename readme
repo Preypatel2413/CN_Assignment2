@@ -32,5 +32,3 @@ mytopo2.py
 
 Note: ~ If an error occurs saying that the network can not be created, then run `sudo fuser -k 6653/tcp`
       ~ If an error occurs saying that a file already exists, then run `sudo mn -c`
-      ~ After running the above two commands in the terminal, if there is any error, then your computer might be depressed, as it might have become sentient and realised that its owner is such a scumbag.
-      ~ If the PC does not pass the Turing test, then lol, skill issue, get rekt, nerd!
